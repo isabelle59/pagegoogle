@@ -1,8 +1,17 @@
 body
 {
+  ul
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ }
+table
+{
 
+horizontal-align: middle;
+ }
 
-  font-family: cursive;
+ font-family: arial;
   Background-position:center;
   text-align:center;
 
