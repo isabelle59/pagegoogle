@@ -4,21 +4,29 @@ menu
   height:10px;
 
 }
-.recherche a {
+.recherche a
+{
   margin-right: 8px;
   background-color: #F2F2F2;
   padding: 10px;
   font-weight: bold;
 }
+a:hover
+{
+  color: black;
+}
 .recherche
 {
-  margin-top: 50px;
+text-decoration:none;
+
+margin-top: 50px;
 }
 
 
 
 header
-{margin-top: 2px;
+{
+margin-top: 2px;
 font-family: sans-serif;
 text-align: right;
 font-size: 90%;
